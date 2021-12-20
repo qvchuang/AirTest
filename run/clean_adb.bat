@@ -1,1 +1,0 @@
-TASKKILL /F /IM adb.exe
